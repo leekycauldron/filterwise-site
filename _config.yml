@@ -1,0 +1,10 @@
+# GitHub Pages (Jekyll) configuration for the public filterwise-site repository.
+# This folder is the source of truth; its contents are pushed as-is to that repository.
+title: Filterwise
+description: Privacy policy and support for the Filterwise Chrome extension.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+exclude:
+  - README.md
